@@ -1,7 +1,6 @@
 - [Commands](#commands)
 - [Technology Used](#technology-used)
 - [Developer](#developer)
-- 
 
 # LIRI-Bot
 
